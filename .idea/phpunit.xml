@@ -3,6 +3,8 @@
   <component name="PHPUnit">
     <option name="directories">
       <list>
+        <option value="$PROJECT_DIR$/php3_asm/tests/Unit" />
+        <option value="$PROJECT_DIR$/php3_asm/tests/Feature" />
         <option value="$PROJECT_DIR$/php3_lab1/tests/Unit" />
         <option value="$PROJECT_DIR$/php3_lab1/tests/Feature" />
       </list>
